@@ -7,7 +7,7 @@ A modern, responsive personal portfolio built with **React** and **Vite**, showc
 > Add your deployed Vercel URL here
 
 ```
-[https://your-portfolio.vercel.app](https://my-portfolio-gules-six-11.vercel.app/)
+https://my-portfolio-gules-six-11.vercel.app/
 ```
 
 ---
