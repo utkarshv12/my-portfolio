@@ -1,4 +1,4 @@
-# 🚀 Utkarsh Verma – Developer Portfolio
+# 🚀 Utkarsh – Developer Portfolio
 
 A modern, responsive personal portfolio built with **React** and **Vite**, showcasing my projects, technical skills, education, certifications, and contact information through an AI-inspired interface.
 
@@ -7,7 +7,7 @@ A modern, responsive personal portfolio built with **React** and **Vite**, showc
 > Add your deployed Vercel URL here
 
 ```
-https://your-portfolio.vercel.app
+[https://your-portfolio.vercel.app](https://my-portfolio-gules-six-11.vercel.app/)
 ```
 
 ---
